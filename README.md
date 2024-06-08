@@ -1,1 +1,2 @@
 # ArrayList-BoundedCapacity-DataStructure-and-Algorithms
+In Java, lists are implemented using the List interface from the java.util package. Lists allow you to store multiple elements in a collection, similar to arrays but with more advanced storage options and retrieval capabilities. The ArrayList implementation class is commonly used for lists in Java due to its speed and lightweight nature. It is a resizable-array implementation of the List interface, allowing for dynamic storage of elements

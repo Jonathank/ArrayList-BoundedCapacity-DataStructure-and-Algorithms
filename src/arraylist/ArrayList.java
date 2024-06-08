@@ -69,8 +69,8 @@ public class ArrayList<E> implements List<E>{
 		 for (int k = i; k < size-1; k++) {
 			 data[k] = data[k+1];			//shift elements to leftmost
 			 data[size-1] = null;
-			 size--;
 		 }
+		 size--;
 		return element;
 	}
 
